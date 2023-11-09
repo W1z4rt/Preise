@@ -71201,7 +71201,7 @@ L(a){var s=null
 return new A.uJ(new A.uU(s),"Kassenapp",A.ajd(s,B.i3,s),s)}}
 A.uU.prototype={
 ar(){var s="Mineralwasser gr",r="Mineralwasser kl",q=t.N
-return new A.yK(A.atu(null),A.av(["Softdrink gr",3.5,"Softdrink kl",2,"Apfelschorle gr",3,"Apfelschorle kl",2,s,2,r,1.5,"Bier",2.5,"Gl\xfchwein",3,"Kinderpunsch",1.5,"Pommes",3.5,"Wurst",3.5],q,t.i),A.av(["Softdrink gr",B.FT,"Softdrink kl",new A.q(4286869867),"Apfelschorle gr",B.FQ,"Apfelschorle kl",new A.q(4294967164),s,new A.q(4278216894),r,B.FM,"Bier",B.FR,"Gl\xfchwein",B.FS,"Kinderpunsch",new A.q(4294930287),"Pommes",B.FP,"Wurst",B.FO],q,t.n8),A.A(q,t.S),B.k)}}
+return new A.yK(A.atu(null),A.av(["Softdrink gr",3.5,"Softdrink kl",2,"Apfelschorle gr",3,"Apfelschorle kl",2,s,2,r,1.5,"Gl\xfchwein",3,"Kinderpunsch",1.5,"Bier",2.5,"Pommes",3.5,"Wurst",3.5],q,t.i),A.av(["Softdrink gr",B.FT,"Softdrink kl",new A.q(4286869867),"Apfelschorle gr",B.FQ,"Apfelschorle kl",new A.q(4294967164),s,new A.q(4278216894),r,B.FM,"Gl\xfchwein",B.FS,"Kinderpunsch",new A.q(4294930287),"Bier",B.FR,"Pommes",B.FP,"Wurst",B.FO],q,t.n8),A.A(q,t.S),B.k)}}
 A.yK.prototype={
 a56(a){this.au(new A.a83(this,a))},
 a55(a){var s=this.z
@@ -71223,7 +71223,7 @@ l=l?B.wQ:o
 s=A.dU("Gesamtpreis: "+B.d.W(p.d,2)+" \u20ac",o,o,o,o,o,o)
 r=A.ahu(o,new A.h6(4,B.cK,B.ju),o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!1,o,o,o,"Gegeben",o,o,o,o,o,o,o,o,o,o,o,o,o)
 q=t.F
-return new A.vW(new A.rE(n,new A.Ni(o,o,1/0,56),o),A.adh(A.a([new A.DY(1,B.kJ,new A.Et(new A.a2x(2,3),new A.a2s(new A.a87(p),m,!0,!0,!0,o),o,B.b1,!1,o,o,l,!1,o,m,B.az,B.HR,o,B.at,o),o),new A.cP(new A.aC(8,8,8,8),s,o),new A.cP(new A.aC(8,8,8,8),new A.wT(p.w,r,B.JK,B.J8,B.J9,new A.a88(p),!0,o),o),new A.cP(new A.aC(8,8,8,8),A.dU("R\xfcckgeld: "+B.d.W(p.f-p.d,2)+" \u20ac",o,o,o,o,o,o),o),new A.cP(new A.aC(8,8,8,8),A.dU("Gesamtumsatz: "+B.d.W(p.e,2)+" \u20ac",o,o,o,o,o,o),o),new A.cP(new A.aC(8,8,8,8),A.dU("Letztes R\xfcckgeld: "+B.d.W(p.r,2)+" \u20ac",o,o,o,o,o,o),o),A.aiv(A.a([A.ah5(A.dU("Zahlen",o,o,o,o,o,o),p.gack()),A.ah5(A.dU("Reset",o,o,o,o,o,o),p.gabn(p))],q),B.cY,B.F9,B.i1)],q),B.cY,B.eM,B.i1),o)}}
+return new A.vW(new A.rE(n,new A.Ni(o,o,1/0,56),o),A.adh(A.a([new A.DY(1,B.kJ,new A.Et(new A.a2x(2,3.5),new A.a2s(new A.a87(p),m,!0,!0,!0,o),o,B.b1,!1,o,o,l,!1,o,m,B.az,B.HR,o,B.at,o),o),new A.cP(new A.aC(8,8,8,8),s,o),new A.cP(new A.aC(8,8,8,8),new A.wT(p.w,r,B.JK,B.J8,B.J9,new A.a88(p),!0,o),o),new A.cP(new A.aC(8,8,8,8),A.dU("R\xfcckgeld: "+B.d.W(p.f-p.d,2)+" \u20ac",o,o,o,o,o,o),o),new A.cP(new A.aC(8,8,8,8),A.dU("Gesamtumsatz: "+B.d.W(p.e,2)+" \u20ac",o,o,o,o,o,o),o),new A.cP(new A.aC(8,8,8,8),A.dU("Letztes R\xfcckgeld: "+B.d.W(p.r,2)+" \u20ac",o,o,o,o,o,o),o),A.aiv(A.a([A.ah5(A.dU("Zahlen",o,o,o,o,o,o),p.gack()),A.ah5(A.dU("Reset",o,o,o,o,o,o),p.gabn(p))],q),B.cY,B.F9,B.i1)],q),B.cY,B.eM,B.i1),o)}}
 A.a83.prototype={
 $0(){var s=this.a,r=s.d,q=this.b,p=s.x.h(0,q)
 p.toString
